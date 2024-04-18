@@ -1,7 +1,7 @@
 ### Ola! Eu sou o Michel Nascimento
 ### Atualmente faço parte do time de Transformação Digital | TD Dados como Analista de Dados Jr 📈
 
-## Tecnologias e ferramentas que utilizo no meu dia
+## Ferramentas e Tecnologias que utilizo no meu dia
 <div style="display: inline_block">
     <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter"/>
