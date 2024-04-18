@@ -1,6 +1,5 @@
 ### Ola! Eu sou o Michel Nascimento
 ### Atualmente faço parte do time de Transformação Digital | TD Dados como Analista de Dados Jr 📈
-<br/>
 
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block">
