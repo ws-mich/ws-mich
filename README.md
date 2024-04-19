@@ -1,10 +1,11 @@
-<img style="margin-top: 40px;" align="right" width="400px" src="https://github.com/ws-mich/ws-mich/blob/main/avatar.png">
+<img style="margin-top: 40px;" align="right" width="350px" src="https://github.com/ws-mich/ws-mich/blob/main/avatar.png">
 
 
-### Ola! Eu sou o Michel Nascimento
+### Olá! Eu sou o Michel Nascimento
 ### Atualmente faço parte do time de Transformação Digital | TD Dados como Analista de Dados Jr 📈
+---
+### Ferramentas e Tecnologias que utilizo no meu dia   
 
-## Ferramentas e Tecnologias que utilizo no meu dia   
 <div style="display: inline_block">
     <img align="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>   
