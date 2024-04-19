@@ -1,3 +1,6 @@
+<img style="margin-top: 40px;" align="right" width="400px" src="https://github.com/ws-mich/ws-mich/blob/main/avatar.png">
+
+
 ### Ola! Eu sou o Michel Nascimento
 ### Atualmente faço parte do time de Transformação Digital | TD Dados como Analista de Dados Jr 📈
 
@@ -17,6 +20,5 @@
 
 ---
 
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ws-mich&show_icons=true&theme=react)
+
