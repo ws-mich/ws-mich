@@ -5,7 +5,7 @@
 ### Atualmente faço parte do time de Transformação Digital 
 ### TD Dados como Analista de Dados Jr 📈
 ---
-### Ferramentas e Tecnologias que utilizo no meu dia   
+### Ferramentas e Tecnologias que utilizo no meu dia 
 
 <div style="display: inline_block">
     <img align="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
