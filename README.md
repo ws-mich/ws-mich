@@ -1,5 +1,4 @@
-<img style="margin-top: 40px;" align="right" width="350px" src="https://github.com/ws-mich/ws-mich/blob/main/avatar.png">
-
+<!--<img style="margin-top: 40px;" align="right" width="350px" src="https://github.com/ws-mich/ws-mich/blob/main/avatar.png">--> 
 
 ### Olá! Eu sou o Michel Nascimento
 ### Atualmente faço parte do time de Transformação Digital 
